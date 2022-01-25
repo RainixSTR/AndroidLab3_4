@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity 1</string>
+    <string name="to_second">to second</string>
+    <string name="to_first">to first</string>
+    <string name="to_third">to third</string>
+    <string name="some_text_information">Welcome to the club, buddy!</string>
+    <string name="title_activity_2">Activity 2</string>
+    <string name="title_activity_3">Activity 3</string>
+    <string name="title_activity_about">Activity About</string>
+    <string name="info">info</string>
+</resources>
